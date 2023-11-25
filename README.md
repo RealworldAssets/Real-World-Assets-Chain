@@ -43,6 +43,7 @@ In order to combine DPoS and PoA to reach consensus, Real World Assets Chain imp
 RWA will run on RWA smart on-chain just like ETH runs on ethereum, so it is the same as native tokenBSC. This means, RWA will be used for:
 
 1. Paid `gas` deploys or calls smart contracts on the Real World Assets Chain
+2. Rwa public chain ecological governance token aggregate sum 210,000 pieces, ultimately destroyed to 100,000 pieces, for on-chain expansion to 100 million pieces.
 
 ## Building the source
 
